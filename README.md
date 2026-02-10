@@ -1,4 +1,4 @@
-# opw_phantoms
+# openwater-phantoms
 ## Phantoms for Optical, Ultrasound, and Acousto-Optic Devices
 
 Openwater has developed several phantoms for use with our optical, ultrasound, and acousto-optic devices. These phantoms are designed to simulate the characteristics of interacting tissue, and have various formulations and mechanical configurations depending on the application. 
