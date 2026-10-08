@@ -1,4 +1,9 @@
 # opw_phantoms
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 ## Phantoms for Optical, Ultrasound, and Acousto-Optic Devices
 
 Openwater has developed several phantoms for use with our optical, ultrasound, and acousto-optic devices. These phantoms are designed to simulate the characteristics of interacting tissue, and have various formulations and mechanical configurations depending on the application. 
@@ -21,6 +26,3 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 opw_phantoms is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
-
-## Investigational Use Only
-CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. opw_phantoms has *not* been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
